@@ -13,6 +13,10 @@ I'm a **DevOps Engineer (Fresher)** passionate about cloud infrastructure, autom
 * 🐧 Linux | Bash
 * 💻 Core Java | JavaScript | MERN
 
+<p align="center">
+  <img src="./assets/skills.gif" width="100%">
+</p>
+
 🚀 Currently building and learning **Cloud, DevOps, Kubernetes, CI/CD & DevSecOps**.
 
 📍 Bengaluru, India
