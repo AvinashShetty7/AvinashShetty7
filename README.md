@@ -14,7 +14,7 @@ I'm a **DevOps Engineer (Fresher)** passionate about cloud infrastructure, autom
 * 💻 Core Java | JavaScript | MERN
 
 <p align="center">
-  <img src="./assets/skills.gif" width="100%">
+  <img src="./skills.gif" width="100%">
 </p>
 
 🚀 Currently building and learning **Cloud, DevOps, Kubernetes, CI/CD & DevSecOps**.
