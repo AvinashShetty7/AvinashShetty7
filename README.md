@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Avinasha Shetty 👋
 
-<!--
-**AvinashShetty7/AvinashShetty7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### DevOps Engineer | AWS | Kubernetes | Terraform
 
-Here are some ideas to get you started:
+I'm a **DevOps Engineer (Fresher)** passionate about cloud infrastructure, automation, and reliable application deployments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* ☁️ AWS | Terraform
+* 🐳 Docker | Kubernetes | Helm
+* 🔄 GitHub Actions | Jenkins | Argo CD
+* 📊 Prometheus | Grafana | CloudWatch
+* 🐧 Linux | Bash
+* 💻 Core Java | JavaScript | MERN
+
+🚀 Currently building and learning **Cloud, DevOps, Kubernetes, CI/CD & DevSecOps**.
+
+📍 Bengaluru, India
+
+[LinkedIn](YOUR_LINKEDIN_URL) • [GitHub](https://github.com/AvinashShetty7)
